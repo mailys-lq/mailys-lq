@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Maïlys Le Quintrec ! 
+### I'm currently dev Junior and studient on third year and last year. 
