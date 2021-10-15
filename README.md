@@ -17,3 +17,24 @@ Here are some ideas to get you started:
 
 ### I'm Maïlys Le Quintrec ! 
 ### I'm currently dev Junior and studient on third year and last year. 
+
+### Languages competence :
+# - PHP 
+# - Javascript
+# - VueJS
+# - HTML
+# - CSS 
+
+### CMS : 
+# - Wordpress (in progress)
+# - Prestashop 
+
+### Logiciels design : 
+# - Adobe XD 
+
+### More :
+# Git 
+# Project management
+
+### Externe activity :
+# Voluntering in fest
